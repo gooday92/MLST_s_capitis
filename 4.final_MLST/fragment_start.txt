@@ -1,0 +1,7 @@
+atpB_2	62
+carB	764
+clpP	38
+hisS	195
+mntC	163
+phoA	617
+rluB	248
